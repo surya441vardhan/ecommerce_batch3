@@ -1,4 +1,4 @@
-import { X, Package, Users, BarChart3, FolderTree } from 'lucide-react';
+import { X, Package, Users, ChartBar as BarChart3, FolderTree } from 'lucide-react';
 import { useState } from 'react';
 import { AdminProductManagement } from './AdminProductManagement';
 import { AdminUserManagement } from './AdminUserManagement';
